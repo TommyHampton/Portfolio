@@ -1,44 +1,29 @@
 {
   "main": {
-    "name": "Tommy Hampton",
+    "name": "",
     "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am a Freelance Developer who is very comfortable working remotly and have an ever curious mind when it comes to crafting code. While I try to resolve errors with as little personal time sacrificed as possible, I know when it’s time to be aggressive, which critical issues need overnight solutions, and which ones need to settle.  My practice primarily focuses on JavaScript, and React.",
+    "contactmessage": "Open to Freelance Web Development Projects",
+    "email": "texas01988@gmail.com",
+    "phone": "",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
-
+    "resumedownload": "https://drive.google.com/file/d/1LgfWY2HYHbiUgO_G14IapAB6CO2xpQsL/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/tommy-hampton-62043b1a3/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/TommyHampton",
         "className": "fa fa-github"
       }
     ]
@@ -47,43 +32,31 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Austin Coding Academy",
+        "degree": "Full Stack Web Development JavaScript",
+        "graduated": "December 2020",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
+        "company": "Violet Crown City Church",
+        "title": "Audio Visual Technician ",
         "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Originaly I was hired for Crestview United Methodist in 2010 until they became a legacy Church for Violet Crown in 2019. The team at Violet Crown saw my work and extended an offer to have me on their team and I was delighted to accept. My primary duties are to create and run Pro Presenter presentations for the Sunday services. However I keep myself available for Funerals, Weddings and other organizations that rent out the facility."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "JavaScript",
+        "level": "80%"
       },
       {
         "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
         "level": "50%"
       },
       {
@@ -91,16 +64,16 @@
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Git",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "NodeJs",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "MySQL",
+        "level": "50%"
       }
     ]
   },
