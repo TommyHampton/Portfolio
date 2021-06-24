@@ -40,7 +40,7 @@ class Contact extends Component {
 					<fieldset>
 
                   <div>
-						   <a href = "mailto: texas01988@gmail.com">Let's get in touch! Click here to email me!</a> <span className="required">*</span>
+						   <a href = "mailto: texas01988@gmail.com">Let's get in touch! Click here to email me!</a> <span className="required"></span>
                   </div>
 
                   

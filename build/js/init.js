@@ -137,8 +137,6 @@
 /*	contact form
 ------------------------------------------------------*/
 
-
-
    $('form#contactForm button.submit').click(function() {
 
       $('#image-loader').fadeIn();
@@ -147,7 +145,6 @@
       var contactEmail = $('#contactForm #contactEmail').val();
       var contactSubject = $('#contactForm #contactSubject').val();
       var contactMessage = $('#contactForm #contactMessage').val();
-      
 
       var data = 'contactName=' + contactName + '&contactEmail=' + contactEmail +
                '&contactSubject=' + contactSubject + '&contactMessage=' + contactMessage;
