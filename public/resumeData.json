@@ -107,46 +107,24 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "The United Court of Austin",
+        "category": "",
+        "image": "unitedcourtofaustin.png",
+        "url": "https://unitedcourtofaustin.org/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Capital City Lions Club Fundraiser",
+        "category": "",
+        "image": "aclc.png",
+        "url": "https://www.austincapitalcityfundraiser.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I have been incredibly fortunate to have had the opportunity to coach and mentor Tommy during his time at Austin Coding Academy. He attended my classes for both 311 and 411 JavaScript. In 311 he learned, designed and executed successfully the creation of RESTful APIs using Node, MySQL, Express and Google Cloud Platform. In 411 he created beautifully designed User Interfaces with React and Redux. Tommy worked diligently toward his goal in becoming a Full Stack JavaScript Developer. He was able to execute projects on his own and successfully collaborated with other students in contributing to a single project. Tommy sailed through the material provided and will be a great developer on any team he lands.",
+        "user": "Matthew Huntsberry"
       }
     ]
   }
