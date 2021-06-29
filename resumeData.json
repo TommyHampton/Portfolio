@@ -14,7 +14,7 @@
       "state": "",
       "zip": ""
     },
-    "resumedownload": "https://drive.google.com/file/d/1LgfWY2HYHbiUgO_G14IapAB6CO2xpQsL/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1ND7SDUbpjpLoziKpNlkF2VMHGAQf5vCk/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -47,6 +47,10 @@
       }
     ],
     "skills": [
+      {
+        "name": "Wordpress",
+        "level": "80%"
+      },
       {
         "name": "JavaScript",
         "level": "80%"
