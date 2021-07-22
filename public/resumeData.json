@@ -4,7 +4,7 @@
     "occupation": "(Your Occupation Here)",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I am a Freelance Developer who is very comfortable working remotly and have an ever curious mind when it comes to crafting code. While I try to resolve errors with as little personal time sacrificed as possible, I know when it’s time to be aggressive, which critical issues need overnight solutions, and which ones need to settle.  My practice primarily focuses on JavaScript, and React.",
+    "bio": "I'm a Web Developer who is very comfortable working in WordPress, and have an ever curious mind when it comes to crafting code. While I try to resolve errors with as little personal time sacrificed as possible, I know when it’s time to be aggressive, which critical issues need overnight solutions, and which ones need to settle.  My practice primarily focuses on JavaScript, and React.",
     "contactmessage": "",
     "email": "texas01988@gmail.com",
     "phone": "",
@@ -14,7 +14,7 @@
       "state": "",
       "zip": ""
     },
-    "resumedownload": "https://drive.google.com/file/d/1ND7SDUbpjpLoziKpNlkF2VMHGAQf5vCk/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1__kt6Wtk0YBX7skrKXB5Xy69nH6bxw5N/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -49,35 +49,31 @@
     "skills": [
       {
         "name": "Wordpress",
+        "level": "100%"
+      },
+      {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
         "level": "80%"
       },
       {
         "name": "JavaScript",
-        "level": "80%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "HTML5",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "70%"
       },
       {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "NodeJs",
-        "level": "50%"
-      },
-      {
-        "name": "MySQL",
-        "level": "50%"
+        "name": "ReactJs",
+        "level": "70%"
       }
     ]
   },
@@ -100,8 +96,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "I have been incredibly fortunate to have had the opportunity to coach and mentor Tommy during his time at Austin Coding Academy. He attended my classes for both 311 and 411 JavaScript. In 311 he learned, designed and executed successfully the creation of RESTful APIs using Node, MySQL, Express and Google Cloud Platform. In 411 he created beautifully designed User Interfaces with React and Redux. Tommy worked diligently toward his goal in becoming a Full Stack JavaScript Developer. He was able to execute projects on his own and successfully collaborated with other students in contributing to a single project. Tommy sailed through the material provided and will be a great developer on any team he lands.",
-        "user": "Matthew Huntsberry"
+        "text": "Tommy was absolutely amazing to work with. He quickly was able to jump into the overhauling of the WordPress Site. He asked all the necessary questions to make sure he understood what we needed and wanted the website to look and act like. He was very creative in bring ideas to the table. When things needed tweaking, he was quick to do. Tommy was never afraid to ask questions or for guidance when he didn't know the answer. He always made sure to keep me informed about any situation that we had uncovered. He consistently made sure that I was informed about the outcomes or if I need to follow up. I truly enjoyed working with Tommy. I would not hesitate to reach out to him again for this type of work.",
+        "user": "Kelly Green"
       }
     ]
   }
